@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(38, 78, 78);
+    background-color: black
 }
 
 h1 {
@@ -7,10 +7,10 @@ h1 {
     text-decoration: underline;
 }
 
-.meuperfil{
+#meuperfil{
    position: absolute;
     top: 250px;
-   border-radius: 50%;
+   border-radius: 20px;
    margin-left: 80px;
 }
 
@@ -22,5 +22,5 @@ h1 {
 }
 .habilidades{
     align-items: center;
-    text-align: center;
+    ali: center;
 }
