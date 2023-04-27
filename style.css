@@ -6,3 +6,21 @@ h1 {
     text-align: center;
     text-decoration: underline;
 }
+
+.meuperfil{
+   position: absolute;
+    top: 250px;
+   border-radius: 50%;
+   margin-left: 80px;
+}
+
+.apresentacao{
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+.habilidades{
+    align-items: center;
+    text-align: center;
+}
