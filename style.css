@@ -1,8 +1,8 @@
-body{
-    background-color: darkslategray;
+body {
+    background-color: rgb(38, 78, 78);
 }
 
-h1{
+h1 {
     text-align: center;
-    text-decoration:underline ;
+    text-decoration: underline;
 }
